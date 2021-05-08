@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1084908767860",
+    "project_id": "dinersharing",
+    "storage_bucket": "dinersharing.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084908767860:android:dc6abff85b50d24ee41f21",
+        "android_client_info": {
+          "package_name": "com.flutterflow.dinersharing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1084908767860-kl8ntu75en5llmcl1kc6g64sb771ner8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutterflow.dinersharing",
+            "certificate_hash": "f9b09435f5c7d7c7d8799d2d16294eebc93775a7"
+          }
+        },
+        {
+          "client_id": "1084908767860-ias7jchtdvn7u9n2jdg5r52o9eb6g6gl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwy8GVcTWRLEgsZv8mpeiJ7smiS0WU_zU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1084908767860-ias7jchtdvn7u9n2jdg5r52o9eb6g6gl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1084908767860-j4qk9ja741nv5s10e4clchglj85h7ms4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.dinersharing"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

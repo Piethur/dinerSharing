@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1084908767860-j4qk9ja741nv5s10e4clchglj85h7ms4.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1084908767860-j4qk9ja741nv5s10e4clchglj85h7ms4</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1084908767860-kl8ntu75en5llmcl1kc6g64sb771ner8.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBgA-NwK5RjrTAfdzS9dpI6n-10TAmbIqk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1084908767860</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.flutterflow.dinersharing</string>
+	<key>PROJECT_ID</key>
+	<string>dinersharing</string>
+	<key>STORAGE_BUCKET</key>
+	<string>dinersharing.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1084908767860:ios:a2729f08214d870ae41f21</string>
+</dict>
+</plist>
